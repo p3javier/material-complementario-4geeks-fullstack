@@ -6,4 +6,4 @@ En este repositorio voy a ir agregando todo el material complementario creado po
 
 ### Dia 3
 
-- [La linnea de comandos](./Day3-the-command-line/README.md)
+- [La linea de comandos](./Day3-the-command-line/README.md)
