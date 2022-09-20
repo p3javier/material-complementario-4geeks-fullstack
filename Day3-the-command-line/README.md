@@ -2,7 +2,7 @@
 
 La linea de comandos o CLI (Command Line Interface en inglés), es la forma más elemental en la que un ser humano puede interactuar con una computadora.
 
-Esta basada en texto y permite tanto proveer instrucciones a la computadora como logear (mostrar en la consola) información al usuario.
+Esta basada en texto y permite tanto prover instruciones a la computadora como logear (mostrar en la consola) informacion al usuario.
 
 Las instrucciones que podemos proveer son programas CLI, shell builtins (utilidades nativas del sistema operativo) y cualquier aplición instalada en general.
 
@@ -51,12 +51,12 @@ Las instrucciones que podemos proveer son programas CLI, shell builtins (utilida
 - Sirve para comparar el contenido de 2 archivos.
 
 ### `tail`: 
-- Muestra las últimas líneas de uno o más archivos de texto. Un caso de uso muy común de este comando es cuando se quieren visualizar en tiempo real los **logs** de una aplicación.
+- Muestra las ultimas líneas de uno o más archivos de texto. Un caso de uso muy comun de este comando es cuando se quieren visualizar en tiempo real los **logs** de una aplicacion.
 
 ### `vi`: 
-- Clásico editor de texto en entornos Linux y Unix-like.
+- Clasico editor de texto en entornos Linux y Unix-like.
 
 ### Shell built-ins (utilidades nativas)
 
 ### `cd`: 
-- Abreviación para "change directory", se usa como su nombre indica para cambiar de directorio en el que nos encontramos.
+- Abreviacion para "change directory", se usa como su nonbre indica para cambiar de directorio en el que nos encontramos.
