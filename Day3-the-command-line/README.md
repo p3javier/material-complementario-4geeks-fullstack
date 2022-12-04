@@ -4,7 +4,7 @@ La linea de comandos o CLI (Command Line Interface en inglés), es la forma más
 
 Esta basada en texto y permite tanto prover instruciones a la computadora como logear (mostrar en la consola) informacion al usuario.
 
-Las instrucciones que podemos proveer son programas CLI, shell builtins (utilidades nativas del sistema operativo) y cualquier aplición instalada en general.
+Las instrucciones que podemos proveer son programas CLI, shell builtins (utilidades nativas del sistema operativo) y cualquier aplicación instalada en general.
 
 ## Cheat Sheet De Las Instrucciones Más Comunes
 
@@ -14,7 +14,7 @@ Las instrucciones que podemos proveer son programas CLI, shell builtins (utilida
 - Nos permite visualizar en formato texto el contenido de un archivo en el terminal.
 
 ### `chmod` y `chown`: 
-- Nos permiten modificar el nivel de permisos de archivos y directorios  en el sistema operativo.
+- Nos permiten modificar el nivel de permisos de archivos y directorios en el sistema operativo.
 
 ### `cp`: 
 - Copiar archivos.
